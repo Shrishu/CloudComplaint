@@ -83,7 +83,7 @@ class _AddNoticeScreenState extends State<AddNoticeScreen> {
                             child: Center(
                               child: ElevatedButton(
                                 style: ElevatedButton.styleFrom(
-                                  primary: Colors.blue.shade900,
+                                  backgroundColor: Colors.blue.shade900,
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(5),
                                   ),
